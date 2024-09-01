@@ -1,7 +1,5 @@
 # Small_Pivots
 
-# README
-
 ## Overview
 
 This Python script processes financial time series data to identify specific pivot points in the data. These pivots are marked in the DataFrame with labels 'SPL' (Support Pivot Low) and 'SPH' (Support Pivot High). The script reads the data from a CSV file, processes it to identify these pivots, and then exports the processed data to a new CSV file.
